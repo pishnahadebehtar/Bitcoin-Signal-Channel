@@ -8,7 +8,7 @@ https://t.me/Bitcoin_Signal_With_Ai
 https://www.youtube.com/@pishnahadebehtar
 
 لینک سورس کد :
-
+https://github.com/pishnahadebehtar/Bitcoin-Signal-Channel
 
 لینک سرویس بک اند :
 
@@ -21,6 +21,9 @@ https://www.cryptodatadownload.com/data/binance/
 مدل مورد استفاده :
 
 gemini 2.5 pro 
+
+لینک دریافت قیمت ها :
+CryptoCompare API: https://min-api.cryptocompare.com  
 
 این مدل رایگان هستش در حال حاضر و از قابلیت سرچ هم استفاده شده به گوگل استودیو رفته و کلید وب سرویس ایجاد کنید
 
